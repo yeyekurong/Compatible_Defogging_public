@@ -2,6 +2,8 @@
 The fog images and defogged results by comparison methods in the paper "From Dehazing to Defogging: A Compatible Model for Single Image Scattering Removal"
 
 QUANTITATIVE MEASUREMENT OF D [21], DE, AND IL-NIQE [50] ON FIRST 324 REAL WORLD IMAGES IN [28]
+
+
 OriginalImages:
 D: 2.71
 de: 7.01
