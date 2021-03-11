@@ -1,4 +1,5 @@
 # Compatible-Defogging
+
 The fog images and defogged results by comparison methods in the paper "From Dehazing to Defogging: A Compatible Model for Single Image Scattering Removal"
 
 Quantitative measurement of r(gradient),e(new edge)[49], D(fog density) [21], DE(decrete entrophy), and IL-NIQE [50] on first 400 real-world fog images in RTTS [28] and corresponding results from DCDPN[18] CEP[17], EPDN[12], Robust-d[8], IDCM[27] and our algorithm
