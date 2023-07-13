@@ -1,8 +1,8 @@
 # Compatible-Defogging
 
-The fog images and defogged results by comparison methods in the paper "From Dehazing to Defogging: A Compatible Model for Single Image Scattering Removal"
+The fog images and defogged results by comparison methods in the paper "Image Defogging Based on Regional Gradient Constrained Prior"
 
-Quantitative measurement of r(gradient),e(new edge)[49], D(fog density) [21], DE(decrete entrophy), and IL-NIQE [50] on first 400 real-world fog images in RTTS [28] and corresponding results from DCDPN[18] CEP[17], EPDN[12], Robust-d[8], IDCM[27] and our algorithm
+Quantitative measurement of r(gradient), D(fog density), DE(decrete entrophy), and IL-NIQE on real-world fog images in RTTS and corresponding results from DCDPN, CEP, EPDN, Robust-d, IDCM and Our algorithm
 
 OriginalImages:
 D: 2.51
